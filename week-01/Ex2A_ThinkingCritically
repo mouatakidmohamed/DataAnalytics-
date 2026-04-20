@@ -1,0 +1,59 @@
+1. Critical Thinking Questions (Google Trends & “Breakup Foods”)
+
+1) How reliable is Google Trends data for measuring actual “preference” compared to just search curiosity?
+2) Are the “breakup foods” truly popular in those states, or are people just searching them for unrelated reasons?
+3) How were the initial food categories selected, and could that list bias the final results?
+
+---
+
+2. “Interest Over Time” (Line Chart Values)
+
+Overall Chart:
+- Highest peak recorded: 100
+- Lowest dip recorded: 69
+
+Hamburger Searches:
+- Highest peak recorded: 71
+- Lowest dip: not clearly specified
+
+Milkshake Searches:
+- Value observed after comparison: 49
+
+---
+
+3. Why Did the Milkshake Line Change?
+
+Google Trends uses a normalized scale from 0 to 100:
+- 100 = peak popularity in the selected time range
+- 50 = half of peak popularity
+- 0 = insufficient data or very low interest
+
+When a new term is added (e.g., “Breakup”), all values are recalculated relative to the new comparison set, which changes the graph.
+
+---
+
+4. Relationship Between Breakup, Hamburger, and Milkshake
+
+Breakup vs Hamburger:
+- Some overlapping spikes appear in both datasets
+- Suggests indirect relationship influenced by seasonal or emotional behavior
+
+Breakup vs Milkshake:
+- Stronger pattern of matching spikes
+- Likely linked to comfort-food behavior during emotional periods (e.g., Valentine’s Day)
+
+---
+
+5. Interpretation of Findings
+
+- Results show correlation, not causation
+- Google Trends reflects search behavior, not real consumption
+- Influenced by seasonal events and media trends
+- Therefore, conclusions are interesting but not fully reliable
+
+---
+
+6. Top States by Search Interest
+
+- Milkshake: Rhode Island
+- Hamburger: South Dakota
